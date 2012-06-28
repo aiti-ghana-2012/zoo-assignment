@@ -1,0 +1,10 @@
+==========================
+This file should list all of the team members, their github name, and
+a once sentance description of how they contributed to the project
+
+in a name, "github name, contribution" one per line
+
+for example
+
+louis sobel, louissobel, wrote the instructions
+=========================
